@@ -37,6 +37,7 @@ Power BI (for Data Cleaning, DAX Calculations, and Visualization)
 - Added filters for: Room Class, Property, Category, City, Week, Day Type, and Booking Status
 
 ---
+## Dashboard
 ![Overview](Screenshot%20(71).png)
 ---
 ## Key Observations
