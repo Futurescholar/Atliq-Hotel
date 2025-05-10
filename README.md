@@ -37,7 +37,7 @@ Power BI (for Data Cleaning, DAX Calculations, and Visualization)
 - Added filters for: Room Class, Property, Category, City, Week, Day Type, and Booking Status
 
 ---
-![Overview](Screenshot%20(70).png)
+![Overview](Screenshot%20(71).png)
 ---
 ## Key Observations
 - Delhi has the highest average guest rating (3.8), followed by Hyderabad and Mumbai.
