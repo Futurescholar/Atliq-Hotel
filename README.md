@@ -5,7 +5,7 @@
 ### Atliq Hotel Performance Analysis – (May – July)
 
 ---
-Objective:
+## Objective:
 To evaluate atliq hotel’s  performance within the months of May to July and identify opportunities to improve customer satisfaction, boost revenue, and reduce revenue leakage through cancellations.
 ---
 ## Problem Statement
@@ -37,6 +37,8 @@ Power BI (for Data Cleaning, DAX Calculations, and Visualization)
 - Added filters for: Room Class, Property, Category, City, Week, Day Type, and Booking Status
 
 ---
+![Overview](Screenshot%20(70))
+---
 ## Key Observations
 - Delhi has the highest average guest rating (3.8), followed by Hyderabad and Mumbai.
 - Luxury category outperforms the business class in revenue generation.
@@ -66,8 +68,8 @@ Power BI (for Data Cleaning, DAX Calculations, and Visualization)
 - Add feedback forms tied to rewards for post-checkout surveys.
 
 ### Maximize Revenue in Luxury Segment:
--Upsell and cross-sell in Luxury properties, especially in Mumbai and Hyderabad.
-Expand amenities or loyalty programs for repeat guests in top-performing cities.
+- Upsell and cross-sell in Luxury properties, especially in Mumbai and Hyderabad.
+- Expand amenities or loyalty programs for repeat guests in top-performing cities.
 
 ### Optimize Booking Channels:
 - Negotiate better terms with high-volume platforms like Makeyourtrip.
